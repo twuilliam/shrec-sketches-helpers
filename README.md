@@ -1,11 +1,11 @@
 # shrec-sketches-helpers
 
-Helper scripts for sketch-based 3D shape experiments.
+Helper scripts for sketch-based 3D shape experiments.  
 Useful for rendering and pre-processing SHREC13, SHREC14 and PART-SHREC14 datasets.
 
 ## Datasets
 
-SHREC 2013 [[website](http://orca.st.usm.edu/~bli/sharp/sharp/contest/2013/SBR/)]
+SHREC 2013 [[website](http://orca.st.usm.edu/~bli/sharp/sharp/contest/2013/SBR/)]  
 SHREC 2014 [[website](http://orca.st.usm.edu/~bli/sharp/sharp/contest/2014/SBR/)]
 
 ## Image annotations
